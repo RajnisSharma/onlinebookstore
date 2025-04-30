@@ -126,7 +126,6 @@ Step 8: The default Username And Password For User Is "shashi" And "shashi"
 
 **Answer:** Please check you have installed the mysql correctly and have updated the correct db details in application.properties file. Also you can try doing maven clean install and force update the project and restart.
 <hr>
-<hr>
 Note:- Considering this as a Sample Project, we have not much considered of web security.
 #### Some Screenshots for the project:
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png">
